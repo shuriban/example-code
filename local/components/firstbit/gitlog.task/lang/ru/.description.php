@@ -1,0 +1,3 @@
+<?
+$MESS["FISTBIT_GITLOG_COMPONENT_NAME"] = "GitLabLog";
+$MESS["FISTBIT_GITLOG_COMPONENT_DESCRIPTION"] = "Вывод коммитов по задаче из GitLab";

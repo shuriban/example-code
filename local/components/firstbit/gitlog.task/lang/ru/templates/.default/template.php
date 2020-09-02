@@ -1,0 +1,6 @@
+<?
+$MESS["FISTBIT_GITLOG_DATE"] = "Дата.";
+$MESS["FISTBIT_GITLOG_AUTHOR"] = "Автор";
+$MESS["FISTBIT_GITLOG_REPOSITORY"] = "Репозиторий";
+$MESS["FISTBIT_GITLOG_BRANCH"] = "Ветка";
+$MESS["FISTBIT_GITLOG_COMMIT"] = "Коммит";
